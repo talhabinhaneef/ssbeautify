@@ -1,0 +1,2 @@
+# ssbeautify
+Screenshot Beautifier
